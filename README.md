@@ -1,4 +1,4 @@
-# ThirdYearProject
+# DEVELOPMENT OF AN ALGORITHM OR SYSTEM FOR IDENTIFYING ANOMALIES IN HVAC/BMS SCENARIOS AROUND THERMAL COMFORT AND ENERGY EFFICIENCY
 Repository for all analysis done on for the Third Year Project, containing only the scripts, no dataset is included due to confidentiality reasons. All code files are placed in the Final Codes Folder. 
 
 Code files: 
