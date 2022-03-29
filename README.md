@@ -1,5 +1,5 @@
 # ThirdYearProject
-Repository for all analysis done on for the Third Year Project, containing only the scripts, no dataset. 
+Repository for all analysis done on for the Third Year Project, containing only the scripts, no dataset is included due to confidentiality reasons. All code files are placed in the Final Codes Folder. 
 
 Code files: 
 * Cleaned Code Final: Code reproduced from previous year to get a complete dataset. Author: Angeliki Liaska 
